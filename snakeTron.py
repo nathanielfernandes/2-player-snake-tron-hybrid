@@ -1,3 +1,5 @@
+# by Nathaniel Fernandes
+# 2019
 
 # Import a library of functions called 'pygame'
 import pygame
